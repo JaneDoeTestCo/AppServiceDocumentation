@@ -1,5 +1,5 @@
 ---
-label: default
+layout: default
 title: Home
 ---
 #App Service Documentation
